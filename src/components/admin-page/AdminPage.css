@@ -1,0 +1,22 @@
+.main{
+  margin-top: 4rem;  
+}
+.admin-page-bg{
+  /* //background-color: white; */
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.label
+{
+  padding-right: 30px;
+}
+.text-padding
+{
+  padding-inline: 30px;
+}
+.textboxPadding
+{
+  padding-left: 20px;
+}
